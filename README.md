@@ -40,11 +40,11 @@ Add semicolons
 You can get it by CDNjs:
 ###### Regular
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Parking-Master/Swifty.js@latest/swifty.js" async>[ swift version 0.3 ]</script>
+<script src="https://cdn.jsdelivr.net/gh/Parking-Master/Swifty.js@latest/0.3/swifty.js" async>[ swift version 0.3 ]</script>
 ```
 ###### Minified
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Parking-Master/Swifty.js@latest/0.3swifty.min.js" async>[ swift version 0.3 ]</script>
+<script src="https://cdn.jsdelivr.net/gh/Parking-Master/Swifty.js@latest/0.3/swifty.min.js" async>[ swift version 0.3 ]</script>
 ```
 
 - _Or download the file [here]()._
