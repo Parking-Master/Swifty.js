@@ -119,9 +119,11 @@ constant myConst = 2
 ```
 
 #### 6. Strings
-A letter is also simple in Swifty.js, because it is just called a `letter`:
+Strings can be defined using the `string` keyword:
 ```
 string myStr = "Test string"
+
+myStr # "Test string"
 ```
 
 #### 7. Single-Line Comments
@@ -140,10 +142,42 @@ The last one ends with a minus-sign (`-`).<br>
 ##### Example:
 ```
 ##+
-Multi
-Line
-Comment
+This is
+a multi-line
+comment
 ##-
+```
+
+#### 9. Pop-up Boxes
+The `POP` keyword lets you make JavaScript (default) alert boxes.<br>
+
+##### Syntax
+```
+POP.alert(message: String ? "")
+```
+
+##### Example
+```
+POP.alert("Hello, world!")
+POP.prompt("Enter your name:")
+POP.confirm("Are you sure?")
+```
+
+#### 10. Dialouges
+Dialouge boxes let you make smooth pop-ups with user interaction.
+```
+DIALOUGE("Select an action:")
+```
+
+#### 11. Importing modules
+##### Syntax
+```
+IMPORT(url: String ? "")
+```
+
+##### Example
+```
+IMPORT("https://www.example.com/file.js")
 ```
 
 <hr>
