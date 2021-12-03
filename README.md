@@ -106,14 +106,14 @@ A variable is simple in Swifty.js, because it is just called a `variable`:
 variable myVar = 1
 ```
 
-#### 4. Letters
-A letter is also simple in Swifty.js, because it is just called a `letter`:
+#### 4. Local Variables
+A local variable is also simple in Swifty.js, because it is just called a `letter`:
 ```
 letter myLet = 0
 ```
 
-#### 5. Constants
-A constant is also simple in Swifty.js, because it is just called a `constant`:
+#### 5. Constant Variables
+A constant variable is also simple in Swifty.js, because it is just called a `constant`:
 ```
 constant myConst = 2
 ```
